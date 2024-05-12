@@ -21,6 +21,11 @@
 
 ## Team
 
+| Leader & Frontend| Backend & Auth | Footer & Terms Page |
+|---|---|---|
+|[<img src="https://avatars.githubusercontent.com/u/93507427?v=4" style="max-width: 50%; height: auto;"/>](https://github.com/Kaif-Shariff)|||
+|[Kaif Shariff](https://github.com/Kaif-Shariff)|Haider Khaminwala | Ashish Jadhav
+
 - Kaif: Lead & Frontend
 - Haider: Backend, Login & Signup 
 - Ashish: Footer & Terms and Conditions Page 
